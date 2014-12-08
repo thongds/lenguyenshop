@@ -1,0 +1,9 @@
+2014-12-08T06:15:07+00:00 ERR (3): Notice: Undefined index: httponly  in /var/www/html/lenguyenshop/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 94
+2014-12-08T06:15:07+00:00 ERR (3): Notice: Undefined index: secure  in /var/www/html/lenguyenshop/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-12-08T06:15:07+00:00 ERR (3): Notice: Undefined index: domain  in /var/www/html/lenguyenshop/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-12-08T06:15:07+00:00 ERR (3): Notice: Undefined index: httponly  in /var/www/html/lenguyenshop/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 94
+2014-12-08T06:15:07+00:00 ERR (3): Notice: Undefined index: secure  in /var/www/html/lenguyenshop/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-12-08T06:15:07+00:00 ERR (3): Notice: Undefined index: domain  in /var/www/html/lenguyenshop/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
+2014-12-08T06:15:09+00:00 ERR (3): Notice: Undefined index: httponly  in /var/www/html/lenguyenshop/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 94
+2014-12-08T06:15:09+00:00 ERR (3): Notice: Undefined index: secure  in /var/www/html/lenguyenshop/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 96
+2014-12-08T06:15:09+00:00 ERR (3): Notice: Undefined index: domain  in /var/www/html/lenguyenshop/app/code/core/Mage/Core/Model/Session/Abstract/Varien.php on line 98
